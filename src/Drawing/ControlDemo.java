@@ -281,6 +281,24 @@ public class ControlDemo extends Application {
      * @param actionEvent Change the text color and shapeNum
      */
     private void circleHandler(ActionEvent actionEvent) {
+        asdas
+                d
+                asd
+                        asd
+                        ad
+                                sad
+                                a
+                                        dsa
+                                        das
+
+                                                da
+                                                sd
+                                                        ad
+                                                        sad
+                                                                asd
+                                                                sa
+                                                                        dsa
+
         circleButton.setTextFill(Color.RED);
         lineButton.setTextFill(Color.BLACK);
         rectangleButton.setTextFill(Color.BLACK);
